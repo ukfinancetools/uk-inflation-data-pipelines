@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "UKFT RCOL — Average Weekly Earnings from ONS for purchasing power analysis",
-    "generated": "2026-08-05T07:36:16.416Z",
+    "generated": "2026-10-02T04:18:12.268Z",
     "source": "ONS Labour Market Statistics via api.beta.ons.gov.uk",
     "licence": "Open Government Licence v3.0",
     "attribution": "Office for National Statistics",
@@ -1315,7 +1315,7 @@
         "date": "2018 JAN",
         "year": "2018",
         "month": "January",
-        "value": "510"
+        "value": "511"
       },
       {
         "date": "2018 FEB",
@@ -1483,7 +1483,7 @@
         "date": "2020 MAY",
         "year": "2020",
         "month": "May",
-        "value": "532"
+        "value": "531"
       },
       {
         "date": "2020 JUN",
@@ -1519,7 +1519,7 @@
         "date": "2020 NOV",
         "year": "2020",
         "month": "November",
-        "value": "568"
+        "value": "569"
       },
       {
         "date": "2020 DEC",
@@ -1555,19 +1555,19 @@
         "date": "2021 MAY",
         "year": "2021",
         "month": "May",
-        "value": "582"
+        "value": "581"
       },
       {
         "date": "2021 JUN",
         "year": "2021",
         "month": "June",
-        "value": "577"
+        "value": "578"
       },
       {
         "date": "2021 JUL",
         "year": "2021",
         "month": "July",
-        "value": "580"
+        "value": "581"
       },
       {
         "date": "2021 AUG",
@@ -1591,7 +1591,7 @@
         "date": "2021 NOV",
         "year": "2021",
         "month": "November",
-        "value": "590"
+        "value": "591"
       },
       {
         "date": "2021 DEC",
@@ -1627,7 +1627,7 @@
         "date": "2022 MAY",
         "year": "2022",
         "month": "May",
-        "value": "607"
+        "value": "606"
       },
       {
         "date": "2022 JUN",
@@ -1639,7 +1639,7 @@
         "date": "2022 JUL",
         "year": "2022",
         "month": "July",
-        "value": "614"
+        "value": "615"
       },
       {
         "date": "2022 AUG",
@@ -1651,19 +1651,19 @@
         "date": "2022 SEP",
         "year": "2022",
         "month": "September",
-        "value": "619"
+        "value": "620"
       },
       {
         "date": "2022 OCT",
         "year": "2022",
         "month": "October",
-        "value": "628"
+        "value": "627"
       },
       {
         "date": "2022 NOV",
         "year": "2022",
         "month": "November",
-        "value": "633"
+        "value": "634"
       },
       {
         "date": "2022 DEC",
@@ -1687,7 +1687,7 @@
         "date": "2023 MAR",
         "year": "2023",
         "month": "March",
-        "value": "644"
+        "value": "643"
       },
       {
         "date": "2023 APR",
@@ -1705,7 +1705,7 @@
         "date": "2023 JUN",
         "year": "2023",
         "month": "June",
-        "value": "670"
+        "value": "671"
       },
       {
         "date": "2023 JUL",
@@ -1723,13 +1723,13 @@
         "date": "2023 SEP",
         "year": "2023",
         "month": "September",
-        "value": "670"
+        "value": "671"
       },
       {
         "date": "2023 OCT",
         "year": "2023",
         "month": "October",
-        "value": "665"
+        "value": "663"
       },
       {
         "date": "2023 NOV",
@@ -1747,19 +1747,19 @@
         "date": "2024 JAN",
         "year": "2024",
         "month": "January",
-        "value": "676"
+        "value": "675"
       },
       {
         "date": "2024 FEB",
         "year": "2024",
         "month": "February",
-        "value": "680"
+        "value": "679"
       },
       {
         "date": "2024 MAR",
         "year": "2024",
         "month": "March",
-        "value": "684"
+        "value": "683"
       },
       {
         "date": "2024 APR",
@@ -1771,7 +1771,7 @@
         "date": "2024 MAY",
         "year": "2024",
         "month": "May",
-        "value": "691"
+        "value": "692"
       },
       {
         "date": "2024 JUN",
@@ -1783,7 +1783,7 @@
         "date": "2024 JUL",
         "year": "2024",
         "month": "July",
-        "value": "693"
+        "value": "694"
       },
       {
         "date": "2024 AUG",
@@ -1795,7 +1795,7 @@
         "date": "2024 SEP",
         "year": "2024",
         "month": "September",
-        "value": "704"
+        "value": "703"
       },
       {
         "date": "2024 OCT",
@@ -1813,7 +1813,7 @@
         "date": "2024 DEC",
         "year": "2024",
         "month": "December",
-        "value": "714"
+        "value": "715"
       },
       {
         "date": "2025 JAN",
@@ -1831,7 +1831,7 @@
         "date": "2025 MAR",
         "year": "2025",
         "month": "March",
-        "value": "721"
+        "value": "722"
       },
       {
         "date": "2025 APR",
@@ -1855,7 +1855,7 @@
         "date": "2025 JUL",
         "year": "2025",
         "month": "July",
-        "value": "728"
+        "value": "729"
       },
       {
         "date": "2025 AUG",
@@ -1873,19 +1873,19 @@
         "date": "2025 OCT",
         "year": "2025",
         "month": "October",
-        "value": "740"
+        "value": "739"
       },
       {
         "date": "2025 NOV",
         "year": "2025",
         "month": "November",
-        "value": "740"
+        "value": "739"
       },
       {
         "date": "2025 DEC",
         "year": "2025",
         "month": "December",
-        "value": "735"
+        "value": "738"
       },
       {
         "date": "2026 JAN",
@@ -1897,25 +1897,37 @@
         "date": "2026 FEB",
         "year": "2026",
         "month": "February",
-        "value": "747"
+        "value": "746"
       },
       {
         "date": "2026 MAR",
         "year": "2026",
         "month": "March",
-        "value": "754"
+        "value": "756"
       },
       {
         "date": "2026 APR",
         "year": "2026",
         "month": "April",
-        "value": "754"
+        "value": "753"
       },
       {
         "date": "2026 MAY",
         "year": "2026",
         "month": "May",
-        "value": "749"
+        "value": "751"
+      },
+      {
+        "date": "2026 JUN",
+        "year": "2026",
+        "month": "June",
+        "value": "756"
+      },
+      {
+        "date": "2026 JUL",
+        "year": "2026",
+        "month": "July",
+        "value": "756"
       }
     ],
     "annual": [
@@ -2021,7 +2033,7 @@
       },
       {
         "date": "2025",
-        "value": "727"
+        "value": "728"
       }
     ]
   },
@@ -2049,7 +2061,7 @@
         "date": "2000 MAR",
         "year": "2000",
         "month": "March",
-        "value": "309"
+        "value": "308"
       },
       {
         "date": "2000 APR",
@@ -2061,7 +2073,7 @@
         "date": "2000 MAY",
         "year": "2000",
         "month": "May",
-        "value": "311"
+        "value": "312"
       },
       {
         "date": "2000 JUN",
@@ -2121,13 +2133,13 @@
         "date": "2001 MAR",
         "year": "2001",
         "month": "March",
-        "value": "324"
+        "value": "323"
       },
       {
         "date": "2001 APR",
         "year": "2001",
         "month": "April",
-        "value": "326"
+        "value": "327"
       },
       {
         "date": "2001 MAY",
@@ -2139,7 +2151,7 @@
         "date": "2001 JUN",
         "year": "2001",
         "month": "June",
-        "value": "327"
+        "value": "328"
       },
       {
         "date": "2001 JUL",
@@ -2193,13 +2205,13 @@
         "date": "2002 MAR",
         "year": "2002",
         "month": "March",
-        "value": "332"
+        "value": "330"
       },
       {
         "date": "2002 APR",
         "year": "2002",
         "month": "April",
-        "value": "337"
+        "value": "339"
       },
       {
         "date": "2002 MAY",
@@ -2223,7 +2235,7 @@
         "date": "2002 AUG",
         "year": "2002",
         "month": "August",
-        "value": "340"
+        "value": "341"
       },
       {
         "date": "2002 SEP",
@@ -2265,7 +2277,7 @@
         "date": "2003 MAR",
         "year": "2003",
         "month": "March",
-        "value": "346"
+        "value": "345"
       },
       {
         "date": "2003 APR",
@@ -2337,7 +2349,7 @@
         "date": "2004 MAR",
         "year": "2004",
         "month": "March",
-        "value": "357"
+        "value": "358"
       },
       {
         "date": "2004 APR",
@@ -2415,7 +2427,7 @@
         "date": "2005 APR",
         "year": "2005",
         "month": "April",
-        "value": "374"
+        "value": "375"
       },
       {
         "date": "2005 MAY",
@@ -2475,19 +2487,19 @@
         "date": "2006 FEB",
         "year": "2006",
         "month": "February",
-        "value": "390"
+        "value": "391"
       },
       {
         "date": "2006 MAR",
         "year": "2006",
         "month": "March",
-        "value": "394"
+        "value": "395"
       },
       {
         "date": "2006 APR",
         "year": "2006",
         "month": "April",
-        "value": "394"
+        "value": "393"
       },
       {
         "date": "2006 MAY",
@@ -2505,7 +2517,7 @@
         "date": "2006 JUL",
         "year": "2006",
         "month": "July",
-        "value": "399"
+        "value": "398"
       },
       {
         "date": "2006 AUG",
@@ -2553,7 +2565,7 @@
         "date": "2007 MAR",
         "year": "2007",
         "month": "March",
-        "value": "412"
+        "value": "413"
       },
       {
         "date": "2007 APR",
@@ -2607,19 +2619,19 @@
         "date": "2007 DEC",
         "year": "2007",
         "month": "December",
-        "value": "424"
+        "value": "425"
       },
       {
         "date": "2008 JAN",
         "year": "2008",
         "month": "January",
-        "value": "429"
+        "value": "428"
       },
       {
         "date": "2008 FEB",
         "year": "2008",
         "month": "February",
-        "value": "439"
+        "value": "440"
       },
       {
         "date": "2008 MAR",
@@ -2631,7 +2643,7 @@
         "date": "2008 APR",
         "year": "2008",
         "month": "April",
-        "value": "432"
+        "value": "433"
       },
       {
         "date": "2008 MAY",
@@ -2685,19 +2697,19 @@
         "date": "2009 JAN",
         "year": "2009",
         "month": "January",
-        "value": "434"
+        "value": "433"
       },
       {
         "date": "2009 FEB",
         "year": "2009",
         "month": "February",
-        "value": "416"
+        "value": "417"
       },
       {
         "date": "2009 MAR",
         "year": "2009",
         "month": "March",
-        "value": "406"
+        "value": "407"
       },
       {
         "date": "2009 APR",
@@ -2751,7 +2763,7 @@
         "date": "2009 DEC",
         "year": "2009",
         "month": "December",
-        "value": "435"
+        "value": "434"
       },
       {
         "date": "2010 JAN",
@@ -2763,13 +2775,13 @@
         "date": "2010 FEB",
         "year": "2010",
         "month": "February",
-        "value": "441"
+        "value": "442"
       },
       {
         "date": "2010 MAR",
         "year": "2010",
         "month": "March",
-        "value": "435"
+        "value": "436"
       },
       {
         "date": "2010 APR",
@@ -2781,7 +2793,7 @@
         "date": "2010 MAY",
         "year": "2010",
         "month": "May",
-        "value": "437"
+        "value": "436"
       },
       {
         "date": "2010 JUN",
@@ -2817,25 +2829,25 @@
         "date": "2010 NOV",
         "year": "2010",
         "month": "November",
-        "value": "440"
+        "value": "441"
       },
       {
         "date": "2010 DEC",
         "year": "2010",
         "month": "December",
-        "value": "440"
+        "value": "438"
       },
       {
         "date": "2011 JAN",
         "year": "2011",
         "month": "January",
-        "value": "454"
+        "value": "453"
       },
       {
         "date": "2011 FEB",
         "year": "2011",
         "month": "February",
-        "value": "446"
+        "value": "447"
       },
       {
         "date": "2011 MAR",
@@ -2865,7 +2877,7 @@
         "date": "2011 JUL",
         "year": "2011",
         "month": "July",
-        "value": "449"
+        "value": "448"
       },
       {
         "date": "2011 AUG",
@@ -2895,13 +2907,13 @@
         "date": "2011 DEC",
         "year": "2011",
         "month": "December",
-        "value": "450"
+        "value": "449"
       },
       {
         "date": "2012 JAN",
         "year": "2012",
         "month": "January",
-        "value": "452"
+        "value": "451"
       },
       {
         "date": "2012 FEB",
@@ -2967,7 +2979,7 @@
         "date": "2012 DEC",
         "year": "2012",
         "month": "December",
-        "value": "454"
+        "value": "453"
       },
       {
         "date": "2013 JAN",
@@ -2979,19 +2991,19 @@
         "date": "2013 FEB",
         "year": "2013",
         "month": "February",
-        "value": "455"
+        "value": "456"
       },
       {
         "date": "2013 MAR",
         "year": "2013",
         "month": "March",
-        "value": "447"
+        "value": "446"
       },
       {
         "date": "2013 APR",
         "year": "2013",
         "month": "April",
-        "value": "472"
+        "value": "474"
       },
       {
         "date": "2013 MAY",
@@ -3033,7 +3045,7 @@
         "date": "2013 NOV",
         "year": "2013",
         "month": "November",
-        "value": "461"
+        "value": "460"
       },
       {
         "date": "2013 DEC",
@@ -3099,7 +3111,7 @@
         "date": "2014 OCT",
         "year": "2014",
         "month": "October",
-        "value": "471"
+        "value": "470"
       },
       {
         "date": "2014 NOV",
@@ -3117,7 +3129,7 @@
         "date": "2015 JAN",
         "year": "2015",
         "month": "January",
-        "value": "472"
+        "value": "471"
       },
       {
         "date": "2015 FEB",
@@ -3129,13 +3141,13 @@
         "date": "2015 MAR",
         "year": "2015",
         "month": "March",
-        "value": "476"
+        "value": "477"
       },
       {
         "date": "2015 APR",
         "year": "2015",
         "month": "April",
-        "value": "478"
+        "value": "477"
       },
       {
         "date": "2015 MAY",
@@ -3201,13 +3213,13 @@
         "date": "2016 MAR",
         "year": "2016",
         "month": "March",
-        "value": "488"
+        "value": "487"
       },
       {
         "date": "2016 APR",
         "year": "2016",
         "month": "April",
-        "value": "491"
+        "value": "492"
       },
       {
         "date": "2016 MAY",
@@ -3273,13 +3285,13 @@
         "date": "2017 MAR",
         "year": "2017",
         "month": "March",
-        "value": "498"
+        "value": "499"
       },
       {
         "date": "2017 APR",
         "year": "2017",
         "month": "April",
-        "value": "501"
+        "value": "500"
       },
       {
         "date": "2017 MAY",
@@ -3297,7 +3309,7 @@
         "date": "2017 JUL",
         "year": "2017",
         "month": "July",
-        "value": "503"
+        "value": "502"
       },
       {
         "date": "2017 AUG",
@@ -3327,7 +3339,7 @@
         "date": "2017 DEC",
         "year": "2017",
         "month": "December",
-        "value": "510"
+        "value": "511"
       },
       {
         "date": "2018 JAN",
@@ -3345,13 +3357,13 @@
         "date": "2018 MAR",
         "year": "2018",
         "month": "March",
-        "value": "512"
+        "value": "511"
       },
       {
         "date": "2018 APR",
         "year": "2018",
         "month": "April",
-        "value": "513"
+        "value": "514"
       },
       {
         "date": "2018 MAY",
@@ -3369,7 +3381,7 @@
         "date": "2018 JUL",
         "year": "2018",
         "month": "July",
-        "value": "520"
+        "value": "519"
       },
       {
         "date": "2018 AUG",
@@ -3447,7 +3459,7 @@
         "date": "2019 AUG",
         "year": "2019",
         "month": "August",
-        "value": "541"
+        "value": "540"
       },
       {
         "date": "2019 SEP",
@@ -3501,7 +3513,7 @@
         "date": "2020 MAY",
         "year": "2020",
         "month": "May",
-        "value": "523"
+        "value": "524"
       },
       {
         "date": "2020 JUN",
@@ -3519,13 +3531,13 @@
         "date": "2020 AUG",
         "year": "2020",
         "month": "August",
-        "value": "550"
+        "value": "549"
       },
       {
         "date": "2020 SEP",
         "year": "2020",
         "month": "September",
-        "value": "555"
+        "value": "556"
       },
       {
         "date": "2020 OCT",
@@ -3543,7 +3555,7 @@
         "date": "2020 DEC",
         "year": "2020",
         "month": "December",
-        "value": "569"
+        "value": "570"
       },
       {
         "date": "2021 JAN",
@@ -3573,7 +3585,7 @@
         "date": "2021 MAY",
         "year": "2021",
         "month": "May",
-        "value": "579"
+        "value": "580"
       },
       {
         "date": "2021 JUN",
@@ -3591,7 +3603,7 @@
         "date": "2021 AUG",
         "year": "2021",
         "month": "August",
-        "value": "585"
+        "value": "584"
       },
       {
         "date": "2021 SEP",
@@ -3609,7 +3621,7 @@
         "date": "2021 NOV",
         "year": "2021",
         "month": "November",
-        "value": "591"
+        "value": "592"
       },
       {
         "date": "2021 DEC",
@@ -3639,19 +3651,19 @@
         "date": "2022 APR",
         "year": "2022",
         "month": "April",
-        "value": "610"
+        "value": "609"
       },
       {
         "date": "2022 MAY",
         "year": "2022",
         "month": "May",
-        "value": "608"
+        "value": "609"
       },
       {
         "date": "2022 JUN",
         "year": "2022",
         "month": "June",
-        "value": "621"
+        "value": "620"
       },
       {
         "date": "2022 JUL",
@@ -3693,7 +3705,7 @@
         "date": "2023 JAN",
         "year": "2023",
         "month": "January",
-        "value": "644"
+        "value": "643"
       },
       {
         "date": "2023 FEB",
@@ -3705,7 +3717,7 @@
         "date": "2023 MAR",
         "year": "2023",
         "month": "March",
-        "value": "646"
+        "value": "645"
       },
       {
         "date": "2023 APR",
@@ -3717,7 +3729,7 @@
         "date": "2023 MAY",
         "year": "2023",
         "month": "May",
-        "value": "660"
+        "value": "661"
       },
       {
         "date": "2023 JUN",
@@ -3741,7 +3753,7 @@
         "date": "2023 SEP",
         "year": "2023",
         "month": "September",
-        "value": "677"
+        "value": "678"
       },
       {
         "date": "2023 OCT",
@@ -3759,13 +3771,13 @@
         "date": "2023 DEC",
         "year": "2023",
         "month": "December",
-        "value": "676"
+        "value": "677"
       },
       {
         "date": "2024 JAN",
         "year": "2024",
         "month": "January",
-        "value": "681"
+        "value": "679"
       },
       {
         "date": "2024 FEB",
@@ -3777,19 +3789,19 @@
         "date": "2024 MAR",
         "year": "2024",
         "month": "March",
-        "value": "687"
+        "value": "685"
       },
       {
         "date": "2024 APR",
         "year": "2024",
         "month": "April",
-        "value": "692"
+        "value": "694"
       },
       {
         "date": "2024 MAY",
         "year": "2024",
         "month": "May",
-        "value": "696"
+        "value": "697"
       },
       {
         "date": "2024 JUN",
@@ -3801,7 +3813,7 @@
         "date": "2024 JUL",
         "year": "2024",
         "month": "July",
-        "value": "700"
+        "value": "699"
       },
       {
         "date": "2024 AUG",
@@ -3813,19 +3825,19 @@
         "date": "2024 SEP",
         "year": "2024",
         "month": "September",
-        "value": "712"
+        "value": "711"
       },
       {
         "date": "2024 OCT",
         "year": "2024",
         "month": "October",
-        "value": "712"
+        "value": "713"
       },
       {
         "date": "2024 NOV",
         "year": "2024",
         "month": "November",
-        "value": "713"
+        "value": "714"
       },
       {
         "date": "2024 DEC",
@@ -3843,37 +3855,37 @@
         "date": "2025 FEB",
         "year": "2025",
         "month": "February",
-        "value": "724"
+        "value": "723"
       },
       {
         "date": "2025 MAR",
         "year": "2025",
         "month": "March",
-        "value": "723"
+        "value": "725"
       },
       {
         "date": "2025 APR",
         "year": "2025",
         "month": "April",
-        "value": "725"
+        "value": "724"
       },
       {
         "date": "2025 MAY",
         "year": "2025",
         "month": "May",
-        "value": "730"
+        "value": "729"
       },
       {
         "date": "2025 JUN",
         "year": "2025",
         "month": "June",
-        "value": "732"
+        "value": "731"
       },
       {
         "date": "2025 JUL",
         "year": "2025",
         "month": "July",
-        "value": "734"
+        "value": "735"
       },
       {
         "date": "2025 AUG",
@@ -3891,13 +3903,13 @@
         "date": "2025 OCT",
         "year": "2025",
         "month": "October",
-        "value": "741"
+        "value": "742"
       },
       {
         "date": "2025 NOV",
         "year": "2025",
         "month": "November",
-        "value": "741"
+        "value": "742"
       },
       {
         "date": "2025 DEC",
@@ -3909,7 +3921,7 @@
         "date": "2026 JAN",
         "year": "2026",
         "month": "January",
-        "value": "746"
+        "value": "747"
       },
       {
         "date": "2026 FEB",
@@ -3921,7 +3933,7 @@
         "date": "2026 MAR",
         "year": "2026",
         "month": "March",
-        "value": "756"
+        "value": "758"
       },
       {
         "date": "2026 APR",
@@ -3934,6 +3946,18 @@
         "year": "2026",
         "month": "May",
         "value": "753"
+      },
+      {
+        "date": "2026 JUN",
+        "year": "2026",
+        "month": "June",
+        "value": "757"
+      },
+      {
+        "date": "2026 JUL",
+        "year": "2026",
+        "month": "July",
+        "value": "756"
       }
     ],
     "annual": [
@@ -4061,7 +4085,7 @@
         "date": "2000 FEB",
         "year": "2000",
         "month": "February",
-        "value": "315"
+        "value": "314"
       },
       {
         "date": "2000 MAR",
@@ -4073,7 +4097,7 @@
         "date": "2000 APR",
         "year": "2000",
         "month": "April",
-        "value": "309"
+        "value": "310"
       },
       {
         "date": "2000 MAY",
@@ -4091,13 +4115,13 @@
         "date": "2000 JUL",
         "year": "2000",
         "month": "July",
-        "value": "312"
+        "value": "313"
       },
       {
         "date": "2000 AUG",
         "year": "2000",
         "month": "August",
-        "value": "312"
+        "value": "313"
       },
       {
         "date": "2000 SEP",
@@ -4121,7 +4145,7 @@
         "date": "2000 DEC",
         "year": "2000",
         "month": "December",
-        "value": "315"
+        "value": "316"
       },
       {
         "date": "2001 JAN",
@@ -4145,13 +4169,13 @@
         "date": "2001 APR",
         "year": "2001",
         "month": "April",
-        "value": "327"
+        "value": "328"
       },
       {
         "date": "2001 MAY",
         "year": "2001",
         "month": "May",
-        "value": "329"
+        "value": "328"
       },
       {
         "date": "2001 JUN",
@@ -4175,7 +4199,7 @@
         "date": "2001 SEP",
         "year": "2001",
         "month": "September",
-        "value": "334"
+        "value": "333"
       },
       {
         "date": "2001 OCT",
@@ -4193,7 +4217,7 @@
         "date": "2001 DEC",
         "year": "2001",
         "month": "December",
-        "value": "332"
+        "value": "333"
       },
       {
         "date": "2002 JAN",
@@ -4229,7 +4253,7 @@
         "date": "2002 JUN",
         "year": "2002",
         "month": "June",
-        "value": "342"
+        "value": "341"
       },
       {
         "date": "2002 JUL",
@@ -4241,7 +4265,7 @@
         "date": "2002 AUG",
         "year": "2002",
         "month": "August",
-        "value": "340"
+        "value": "341"
       },
       {
         "date": "2002 SEP",
@@ -4253,7 +4277,7 @@
         "date": "2002 OCT",
         "year": "2002",
         "month": "October",
-        "value": "347"
+        "value": "346"
       },
       {
         "date": "2002 NOV",
@@ -4265,7 +4289,7 @@
         "date": "2002 DEC",
         "year": "2002",
         "month": "December",
-        "value": "349"
+        "value": "350"
       },
       {
         "date": "2003 JAN",
@@ -4283,7 +4307,7 @@
         "date": "2003 MAR",
         "year": "2003",
         "month": "March",
-        "value": "354"
+        "value": "353"
       },
       {
         "date": "2003 APR",
@@ -4295,19 +4319,19 @@
         "date": "2003 MAY",
         "year": "2003",
         "month": "May",
-        "value": "353"
+        "value": "352"
       },
       {
         "date": "2003 JUN",
         "year": "2003",
         "month": "June",
-        "value": "359"
+        "value": "358"
       },
       {
         "date": "2003 JUL",
         "year": "2003",
         "month": "July",
-        "value": "360"
+        "value": "361"
       },
       {
         "date": "2003 AUG",
@@ -4367,13 +4391,13 @@
         "date": "2004 MAY",
         "year": "2004",
         "month": "May",
-        "value": "370"
+        "value": "369"
       },
       {
         "date": "2004 JUN",
         "year": "2004",
         "month": "June",
-        "value": "374"
+        "value": "373"
       },
       {
         "date": "2004 JUL",
@@ -4385,7 +4409,7 @@
         "date": "2004 AUG",
         "year": "2004",
         "month": "August",
-        "value": "376"
+        "value": "377"
       },
       {
         "date": "2004 SEP",
@@ -4403,7 +4427,7 @@
         "date": "2004 NOV",
         "year": "2004",
         "month": "November",
-        "value": "381"
+        "value": "382"
       },
       {
         "date": "2004 DEC",
@@ -4427,7 +4451,7 @@
         "date": "2005 MAR",
         "year": "2005",
         "month": "March",
-        "value": "389"
+        "value": "388"
       },
       {
         "date": "2005 APR",
@@ -4439,7 +4463,7 @@
         "date": "2005 MAY",
         "year": "2005",
         "month": "May",
-        "value": "399"
+        "value": "398"
       },
       {
         "date": "2005 JUN",
@@ -4457,7 +4481,7 @@
         "date": "2005 AUG",
         "year": "2005",
         "month": "August",
-        "value": "396"
+        "value": "397"
       },
       {
         "date": "2005 SEP",
@@ -4487,7 +4511,7 @@
         "date": "2006 JAN",
         "year": "2006",
         "month": "January",
-        "value": "402"
+        "value": "403"
       },
       {
         "date": "2006 FEB",
@@ -4499,7 +4523,7 @@
         "date": "2006 MAR",
         "year": "2006",
         "month": "March",
-        "value": "403"
+        "value": "402"
       },
       {
         "date": "2006 APR",
@@ -4511,7 +4535,7 @@
         "date": "2006 MAY",
         "year": "2006",
         "month": "May",
-        "value": "413"
+        "value": "412"
       },
       {
         "date": "2006 JUN",
@@ -4541,7 +4565,7 @@
         "date": "2006 OCT",
         "year": "2006",
         "month": "October",
-        "value": "411"
+        "value": "412"
       },
       {
         "date": "2006 NOV",
@@ -4571,7 +4595,7 @@
         "date": "2007 MAR",
         "year": "2007",
         "month": "March",
-        "value": "417"
+        "value": "416"
       },
       {
         "date": "2007 APR",
@@ -4583,13 +4607,13 @@
         "date": "2007 MAY",
         "year": "2007",
         "month": "May",
-        "value": "429"
+        "value": "428"
       },
       {
         "date": "2007 JUN",
         "year": "2007",
         "month": "June",
-        "value": "420"
+        "value": "421"
       },
       {
         "date": "2007 JUL",
@@ -4661,7 +4685,7 @@
         "date": "2008 JUN",
         "year": "2008",
         "month": "June",
-        "value": "431"
+        "value": "433"
       },
       {
         "date": "2008 JUL",
@@ -4703,13 +4727,13 @@
         "date": "2009 JAN",
         "year": "2009",
         "month": "January",
-        "value": "443"
+        "value": "442"
       },
       {
         "date": "2009 FEB",
         "year": "2009",
         "month": "February",
-        "value": "445"
+        "value": "444"
       },
       {
         "date": "2009 MAR",
@@ -4721,7 +4745,7 @@
         "date": "2009 APR",
         "year": "2009",
         "month": "April",
-        "value": "449"
+        "value": "448"
       },
       {
         "date": "2009 MAY",
@@ -4733,7 +4757,7 @@
         "date": "2009 JUN",
         "year": "2009",
         "month": "June",
-        "value": "447"
+        "value": "450"
       },
       {
         "date": "2009 JUL",
@@ -4769,7 +4793,7 @@
         "date": "2009 DEC",
         "year": "2009",
         "month": "December",
-        "value": "459"
+        "value": "458"
       },
       {
         "date": "2010 JAN",
@@ -4781,31 +4805,31 @@
         "date": "2010 FEB",
         "year": "2010",
         "month": "February",
-        "value": "462"
+        "value": "461"
       },
       {
         "date": "2010 MAR",
         "year": "2010",
         "month": "March",
-        "value": "462"
+        "value": "463"
       },
       {
         "date": "2010 APR",
         "year": "2010",
         "month": "April",
-        "value": "464"
+        "value": "462"
       },
       {
         "date": "2010 MAY",
         "year": "2010",
         "month": "May",
-        "value": "461"
+        "value": "462"
       },
       {
         "date": "2010 JUN",
         "year": "2010",
         "month": "June",
-        "value": "484"
+        "value": "488"
       },
       {
         "date": "2010 JUL",
@@ -4841,49 +4865,49 @@
         "date": "2010 DEC",
         "year": "2010",
         "month": "December",
-        "value": "471"
+        "value": "470"
       },
       {
         "date": "2011 JAN",
         "year": "2011",
         "month": "January",
-        "value": "474"
+        "value": "473"
       },
       {
         "date": "2011 FEB",
         "year": "2011",
         "month": "February",
-        "value": "475"
+        "value": "474"
       },
       {
         "date": "2011 MAR",
         "year": "2011",
         "month": "March",
-        "value": "481"
+        "value": "482"
       },
       {
         "date": "2011 APR",
         "year": "2011",
         "month": "April",
-        "value": "476"
+        "value": "474"
       },
       {
         "date": "2011 MAY",
         "year": "2011",
         "month": "May",
-        "value": "472"
+        "value": "473"
       },
       {
         "date": "2011 JUN",
         "year": "2011",
         "month": "June",
-        "value": "500"
+        "value": "504"
       },
       {
         "date": "2011 JUL",
         "year": "2011",
         "month": "July",
-        "value": "481"
+        "value": "480"
       },
       {
         "date": "2011 AUG",
@@ -4913,43 +4937,43 @@
         "date": "2011 DEC",
         "year": "2011",
         "month": "December",
-        "value": "478"
+        "value": "477"
       },
       {
         "date": "2012 JAN",
         "year": "2012",
         "month": "January",
-        "value": "478"
+        "value": "477"
       },
       {
         "date": "2012 FEB",
         "year": "2012",
         "month": "February",
-        "value": "481"
+        "value": "479"
       },
       {
         "date": "2012 MAR",
         "year": "2012",
         "month": "March",
-        "value": "484"
+        "value": "485"
       },
       {
         "date": "2012 APR",
         "year": "2012",
         "month": "April",
-        "value": "482"
+        "value": "481"
       },
       {
         "date": "2012 MAY",
         "year": "2012",
         "month": "May",
-        "value": "480"
+        "value": "481"
       },
       {
         "date": "2012 JUN",
         "year": "2012",
         "month": "June",
-        "value": "505"
+        "value": "508"
       },
       {
         "date": "2012 JUL",
@@ -4979,7 +5003,7 @@
         "date": "2012 NOV",
         "year": "2012",
         "month": "November",
-        "value": "488"
+        "value": "487"
       },
       {
         "date": "2012 DEC",
@@ -4991,43 +5015,43 @@
         "date": "2013 JAN",
         "year": "2013",
         "month": "January",
-        "value": "487"
+        "value": "486"
       },
       {
         "date": "2013 FEB",
         "year": "2013",
         "month": "February",
-        "value": "485"
+        "value": "484"
       },
       {
         "date": "2013 MAR",
         "year": "2013",
         "month": "March",
-        "value": "489"
+        "value": "490"
       },
       {
         "date": "2013 APR",
         "year": "2013",
         "month": "April",
-        "value": "489"
+        "value": "488"
       },
       {
         "date": "2013 MAY",
         "year": "2013",
         "month": "May",
-        "value": "488"
+        "value": "489"
       },
       {
         "date": "2013 JUN",
         "year": "2013",
         "month": "June",
-        "value": "503"
+        "value": "506"
       },
       {
         "date": "2013 JUL",
         "year": "2013",
         "month": "July",
-        "value": "488"
+        "value": "487"
       },
       {
         "date": "2013 AUG",
@@ -5045,37 +5069,37 @@
         "date": "2013 OCT",
         "year": "2013",
         "month": "October",
-        "value": "490"
+        "value": "489"
       },
       {
         "date": "2013 NOV",
         "year": "2013",
         "month": "November",
-        "value": "489"
+        "value": "488"
       },
       {
         "date": "2013 DEC",
         "year": "2013",
         "month": "December",
-        "value": "490"
+        "value": "489"
       },
       {
         "date": "2014 JAN",
         "year": "2014",
         "month": "January",
-        "value": "491"
+        "value": "490"
       },
       {
         "date": "2014 FEB",
         "year": "2014",
         "month": "February",
-        "value": "491"
+        "value": "490"
       },
       {
         "date": "2014 MAR",
         "year": "2014",
         "month": "March",
-        "value": "497"
+        "value": "498"
       },
       {
         "date": "2014 APR",
@@ -5087,19 +5111,19 @@
         "date": "2014 MAY",
         "year": "2014",
         "month": "May",
-        "value": "489"
+        "value": "490"
       },
       {
         "date": "2014 JUN",
         "year": "2014",
         "month": "June",
-        "value": "491"
+        "value": "493"
       },
       {
         "date": "2014 JUL",
         "year": "2014",
         "month": "July",
-        "value": "493"
+        "value": "492"
       },
       {
         "date": "2014 AUG",
@@ -5159,13 +5183,13 @@
         "date": "2015 MAY",
         "year": "2015",
         "month": "May",
-        "value": "495"
+        "value": "496"
       },
       {
         "date": "2015 JUN",
         "year": "2015",
         "month": "June",
-        "value": "495"
+        "value": "496"
       },
       {
         "date": "2015 JUL",
@@ -5243,13 +5267,13 @@
         "date": "2016 JUL",
         "year": "2016",
         "month": "July",
-        "value": "504"
+        "value": "503"
       },
       {
         "date": "2016 AUG",
         "year": "2016",
         "month": "August",
-        "value": "509"
+        "value": "508"
       },
       {
         "date": "2016 SEP",
@@ -5285,7 +5309,7 @@
         "date": "2017 FEB",
         "year": "2017",
         "month": "February",
-        "value": "507"
+        "value": "508"
       },
       {
         "date": "2017 MAR",
@@ -5363,19 +5387,19 @@
         "date": "2018 MAR",
         "year": "2018",
         "month": "March",
-        "value": "519"
+        "value": "520"
       },
       {
         "date": "2018 APR",
         "year": "2018",
         "month": "April",
-        "value": "520"
+        "value": "521"
       },
       {
         "date": "2018 MAY",
         "year": "2018",
         "month": "May",
-        "value": "522"
+        "value": "521"
       },
       {
         "date": "2018 JUN",
@@ -5417,13 +5441,13 @@
         "date": "2018 DEC",
         "year": "2018",
         "month": "December",
-        "value": "531"
+        "value": "532"
       },
       {
         "date": "2019 JAN",
         "year": "2019",
         "month": "January",
-        "value": "532"
+        "value": "533"
       },
       {
         "date": "2019 FEB",
@@ -5447,7 +5471,7 @@
         "date": "2019 MAY",
         "year": "2019",
         "month": "May",
-        "value": "542"
+        "value": "541"
       },
       {
         "date": "2019 JUN",
@@ -5459,13 +5483,13 @@
         "date": "2019 JUL",
         "year": "2019",
         "month": "July",
-        "value": "549"
+        "value": "548"
       },
       {
         "date": "2019 AUG",
         "year": "2019",
         "month": "August",
-        "value": "547"
+        "value": "546"
       },
       {
         "date": "2019 SEP",
@@ -5495,7 +5519,7 @@
         "date": "2020 JAN",
         "year": "2020",
         "month": "January",
-        "value": "548"
+        "value": "549"
       },
       {
         "date": "2020 FEB",
@@ -5537,13 +5561,13 @@
         "date": "2020 AUG",
         "year": "2020",
         "month": "August",
-        "value": "567"
+        "value": "566"
       },
       {
         "date": "2020 SEP",
         "year": "2020",
         "month": "September",
-        "value": "572"
+        "value": "571"
       },
       {
         "date": "2020 OCT",
@@ -5555,7 +5579,7 @@
         "date": "2020 NOV",
         "year": "2020",
         "month": "November",
-        "value": "574"
+        "value": "573"
       },
       {
         "date": "2020 DEC",
@@ -5591,7 +5615,7 @@
         "date": "2021 MAY",
         "year": "2021",
         "month": "May",
-        "value": "582"
+        "value": "583"
       },
       {
         "date": "2021 JUN",
@@ -5603,25 +5627,25 @@
         "date": "2021 JUL",
         "year": "2021",
         "month": "July",
-        "value": "581"
+        "value": "582"
       },
       {
         "date": "2021 AUG",
         "year": "2021",
         "month": "August",
-        "value": "583"
+        "value": "582"
       },
       {
         "date": "2021 SEP",
         "year": "2021",
         "month": "September",
-        "value": "585"
+        "value": "584"
       },
       {
         "date": "2021 OCT",
         "year": "2021",
         "month": "October",
-        "value": "588"
+        "value": "586"
       },
       {
         "date": "2021 NOV",
@@ -5639,13 +5663,13 @@
         "date": "2022 JAN",
         "year": "2022",
         "month": "January",
-        "value": "587"
+        "value": "588"
       },
       {
         "date": "2022 FEB",
         "year": "2022",
         "month": "February",
-        "value": "588"
+        "value": "589"
       },
       {
         "date": "2022 MAR",
@@ -5663,67 +5687,67 @@
         "date": "2022 MAY",
         "year": "2022",
         "month": "May",
-        "value": "590"
+        "value": "591"
       },
       {
         "date": "2022 JUN",
         "year": "2022",
         "month": "June",
-        "value": "593"
+        "value": "594"
       },
       {
         "date": "2022 JUL",
         "year": "2022",
         "month": "July",
-        "value": "594"
+        "value": "596"
       },
       {
         "date": "2022 AUG",
         "year": "2022",
         "month": "August",
-        "value": "598"
+        "value": "596"
       },
       {
         "date": "2022 SEP",
         "year": "2022",
         "month": "September",
-        "value": "598"
+        "value": "595"
       },
       {
         "date": "2022 OCT",
         "year": "2022",
         "month": "October",
-        "value": "612"
+        "value": "609"
       },
       {
         "date": "2022 NOV",
         "year": "2022",
         "month": "November",
-        "value": "613"
+        "value": "612"
       },
       {
         "date": "2022 DEC",
         "year": "2022",
         "month": "December",
-        "value": "616"
+        "value": "615"
       },
       {
         "date": "2023 JAN",
         "year": "2023",
         "month": "January",
-        "value": "621"
+        "value": "622"
       },
       {
         "date": "2023 FEB",
         "year": "2023",
         "month": "February",
-        "value": "620"
+        "value": "621"
       },
       {
         "date": "2023 MAR",
         "year": "2023",
         "month": "March",
-        "value": "623"
+        "value": "624"
       },
       {
         "date": "2023 APR",
@@ -5735,115 +5759,115 @@
         "date": "2023 MAY",
         "year": "2023",
         "month": "May",
-        "value": "626"
+        "value": "628"
       },
       {
         "date": "2023 JUN",
         "year": "2023",
         "month": "June",
-        "value": "710"
+        "value": "712"
       },
       {
         "date": "2023 JUL",
         "year": "2023",
         "month": "July",
-        "value": "656"
+        "value": "658"
       },
       {
         "date": "2023 AUG",
         "year": "2023",
         "month": "August",
-        "value": "644"
+        "value": "641"
       },
       {
         "date": "2023 SEP",
         "year": "2023",
         "month": "September",
-        "value": "647"
+        "value": "644"
       },
       {
         "date": "2023 OCT",
         "year": "2023",
         "month": "October",
-        "value": "648"
+        "value": "644"
       },
       {
         "date": "2023 NOV",
         "year": "2023",
         "month": "November",
-        "value": "651"
+        "value": "649"
       },
       {
         "date": "2023 DEC",
         "year": "2023",
         "month": "December",
-        "value": "653"
+        "value": "652"
       },
       {
         "date": "2024 JAN",
         "year": "2024",
         "month": "January",
-        "value": "657"
+        "value": "658"
       },
       {
         "date": "2024 FEB",
         "year": "2024",
         "month": "February",
-        "value": "658"
+        "value": "659"
       },
       {
         "date": "2024 MAR",
         "year": "2024",
         "month": "March",
-        "value": "665"
+        "value": "666"
       },
       {
         "date": "2024 APR",
         "year": "2024",
         "month": "April",
-        "value": "662"
+        "value": "663"
       },
       {
         "date": "2024 MAY",
         "year": "2024",
         "month": "May",
-        "value": "667"
+        "value": "669"
       },
       {
         "date": "2024 JUN",
         "year": "2024",
         "month": "June",
-        "value": "670"
+        "value": "672"
       },
       {
         "date": "2024 JUL",
         "year": "2024",
         "month": "July",
-        "value": "673"
+        "value": "675"
       },
       {
         "date": "2024 AUG",
         "year": "2024",
         "month": "August",
-        "value": "669"
+        "value": "667"
       },
       {
         "date": "2024 SEP",
         "year": "2024",
         "month": "September",
-        "value": "672"
+        "value": "669"
       },
       {
         "date": "2024 OCT",
         "year": "2024",
         "month": "October",
-        "value": "674"
+        "value": "672"
       },
       {
         "date": "2024 NOV",
         "year": "2024",
         "month": "November",
-        "value": "678"
+        "value": "676"
       },
       {
         "date": "2024 DEC",
@@ -5855,13 +5879,13 @@
         "date": "2025 JAN",
         "year": "2025",
         "month": "January",
-        "value": "694"
+        "value": "695"
       },
       {
         "date": "2025 FEB",
         "year": "2025",
         "month": "February",
-        "value": "697"
+        "value": "698"
       },
       {
         "date": "2025 MAR",
@@ -5873,19 +5897,19 @@
         "date": "2025 APR",
         "year": "2025",
         "month": "April",
-        "value": "700"
+        "value": "702"
       },
       {
         "date": "2025 MAY",
         "year": "2025",
         "month": "May",
-        "value": "703"
+        "value": "705"
       },
       {
         "date": "2025 JUN",
         "year": "2025",
         "month": "June",
-        "value": "703"
+        "value": "706"
       },
       {
         "date": "2025 JUL",
@@ -5897,25 +5921,25 @@
         "date": "2025 AUG",
         "year": "2025",
         "month": "August",
-        "value": "718"
+        "value": "715"
       },
       {
         "date": "2025 SEP",
         "year": "2025",
         "month": "September",
-        "value": "724"
+        "value": "721"
       },
       {
         "date": "2025 OCT",
         "year": "2025",
         "month": "October",
-        "value": "728"
+        "value": "726"
       },
       {
         "date": "2025 NOV",
         "year": "2025",
         "month": "November",
-        "value": "728"
+        "value": "726"
       },
       {
         "date": "2025 DEC",
@@ -5927,13 +5951,13 @@
         "date": "2026 JAN",
         "year": "2026",
         "month": "January",
-        "value": "728"
+        "value": "730"
       },
       {
         "date": "2026 FEB",
         "year": "2026",
         "month": "February",
-        "value": "732"
+        "value": "733"
       },
       {
         "date": "2026 MAR",
@@ -5945,13 +5969,25 @@
         "date": "2026 APR",
         "year": "2026",
         "month": "April",
-        "value": "742"
+        "value": "743"
       },
       {
         "date": "2026 MAY",
         "year": "2026",
         "month": "May",
-        "value": "745"
+        "value": "748"
+      },
+      {
+        "date": "2026 JUN",
+        "year": "2026",
+        "month": "June",
+        "value": "753"
+      },
+      {
+        "date": "2026 JUL",
+        "year": "2026",
+        "month": "July",
+        "value": "760"
       }
     ],
     "annual": [
@@ -5989,7 +6025,7 @@
       },
       {
         "date": "2008",
-        "value": "436"
+        "value": "437"
       },
       {
         "date": "2009",
@@ -6009,7 +6045,7 @@
       },
       {
         "date": "2013",
-        "value": "490"
+        "value": "489"
       },
       {
         "date": "2014",
@@ -6021,7 +6057,7 @@
       },
       {
         "date": "2016",
-        "value": "505"
+        "value": "504"
       },
       {
         "date": "2017",
@@ -6029,7 +6065,7 @@
       },
       {
         "date": "2018",
-        "value": "525"
+        "value": "526"
       },
       {
         "date": "2019",
@@ -6049,7 +6085,7 @@
       },
       {
         "date": "2023",
-        "value": "644"
+        "value": "643"
       },
       {
         "date": "2024",
@@ -6073,7 +6109,7 @@
         "date": "2000 JAN",
         "year": "2000",
         "month": "January",
-        "value": "88.7"
+        "value": "88.8"
       },
       {
         "date": "2000 FEB",
@@ -6235,7 +6271,7 @@
         "date": "2002 APR",
         "year": "2002",
         "month": "April",
-        "value": "94.0"
+        "value": "93.9"
       },
       {
         "date": "2002 MAY",
@@ -6733,7 +6769,7 @@
         "date": "2009 MAR",
         "year": "2009",
         "month": "March",
-        "value": "103.4"
+        "value": "103.5"
       },
       {
         "date": "2009 APR",
@@ -7351,7 +7387,7 @@
         "date": "2017 OCT",
         "year": "2017",
         "month": "October",
-        "value": "101.0"
+        "value": "100.9"
       },
       {
         "date": "2017 NOV",
@@ -7501,7 +7537,7 @@
         "date": "2019 NOV",
         "year": "2019",
         "month": "November",
-        "value": "104.0"
+        "value": "103.9"
       },
       {
         "date": "2019 DEC",
@@ -7519,13 +7555,13 @@
         "date": "2020 FEB",
         "year": "2020",
         "month": "February",
-        "value": "103.7"
+        "value": "103.8"
       },
       {
         "date": "2020 MAR",
         "year": "2020",
         "month": "March",
-        "value": "103.7"
+        "value": "103.8"
       },
       {
         "date": "2020 APR",
@@ -7579,7 +7615,7 @@
         "date": "2020 DEC",
         "year": "2020",
         "month": "December",
-        "value": "107.7"
+        "value": "107.6"
       },
       {
         "date": "2021 JAN",
@@ -7591,7 +7627,7 @@
         "date": "2021 FEB",
         "year": "2021",
         "month": "February",
-        "value": "107.5"
+        "value": "107.6"
       },
       {
         "date": "2021 MAR",
@@ -7663,7 +7699,7 @@
         "date": "2022 FEB",
         "year": "2022",
         "month": "February",
-        "value": "106.5"
+        "value": "106.6"
       },
       {
         "date": "2022 MAR",
@@ -7675,7 +7711,7 @@
         "date": "2022 APR",
         "year": "2022",
         "month": "April",
-        "value": "104.7"
+        "value": "104.8"
       },
       {
         "date": "2022 MAY",
@@ -7687,13 +7723,13 @@
         "date": "2022 JUN",
         "year": "2022",
         "month": "June",
-        "value": "104.7"
+        "value": "104.6"
       },
       {
         "date": "2022 JUL",
         "year": "2022",
         "month": "July",
-        "value": "104.3"
+        "value": "104.4"
       },
       {
         "date": "2022 AUG",
@@ -7735,13 +7771,13 @@
         "date": "2023 FEB",
         "year": "2023",
         "month": "February",
-        "value": "104.5"
+        "value": "104.6"
       },
       {
         "date": "2023 MAR",
         "year": "2023",
         "month": "March",
-        "value": "104.5"
+        "value": "104.6"
       },
       {
         "date": "2023 APR",
@@ -7765,7 +7801,7 @@
         "date": "2023 JUL",
         "year": "2023",
         "month": "July",
-        "value": "105.6"
+        "value": "105.7"
       },
       {
         "date": "2023 AUG",
@@ -7777,7 +7813,7 @@
         "date": "2023 SEP",
         "year": "2023",
         "month": "September",
-        "value": "105.8"
+        "value": "105.7"
       },
       {
         "date": "2023 OCT",
@@ -7795,7 +7831,7 @@
         "date": "2023 DEC",
         "year": "2023",
         "month": "December",
-        "value": "106.2"
+        "value": "106.1"
       },
       {
         "date": "2024 JAN",
@@ -7807,7 +7843,7 @@
         "date": "2024 FEB",
         "year": "2024",
         "month": "February",
-        "value": "106.5"
+        "value": "106.6"
       },
       {
         "date": "2024 MAR",
@@ -7873,7 +7909,7 @@
         "date": "2025 JAN",
         "year": "2025",
         "month": "January",
-        "value": "108.2"
+        "value": "108.3"
       },
       {
         "date": "2025 FEB",
@@ -7933,7 +7969,7 @@
         "date": "2025 NOV",
         "year": "2025",
         "month": "November",
-        "value": "108.9"
+        "value": "109.0"
       },
       {
         "date": "2025 DEC",
@@ -7945,7 +7981,7 @@
         "date": "2026 JAN",
         "year": "2026",
         "month": "January",
-        "value": "108.6"
+        "value": "108.7"
       },
       {
         "date": "2026 FEB",
@@ -7969,6 +8005,18 @@
         "date": "2026 MAY",
         "year": "2026",
         "month": "May",
+        "value": "109.1"
+      },
+      {
+        "date": "2026 JUN",
+        "year": "2026",
+        "month": "June",
+        "value": "109.5"
+      },
+      {
+        "date": "2026 JUL",
+        "year": "2026",
+        "month": "July",
         "value": "109.1"
       }
     ],
@@ -8051,7 +8099,7 @@
       },
       {
         "date": "2019",
-        "value": "103.5"
+        "value": "103.4"
       },
       {
         "date": "2020",

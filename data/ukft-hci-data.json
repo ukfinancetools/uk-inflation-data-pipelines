@@ -2,14 +2,14 @@
   "_meta": {
     "description": "UKFT RCOL - ONS Household Costs Indices (HCI) 12-month % change by household group",
     "source": "ONS Household Costs Indices reference tables (xlsx)",
-    "source_url": "https://www.ons.gov.uk/file?uri=/economy/inflationandpriceindices/datasets/householdcostsindicesforukhouseholdgroupsreferencetables/januarytomarch2026/householdcostsindicesforukhouseholdgroupsjantomar2026.xlsx",
+    "source_url": "https://www.ons.gov.uk/file?uri=/economy/inflationandpriceindices/datasets/householdcostsindicesforukhouseholdgroupsreferencetables/apriltojune2026/householdcostsindicesforukhouseholdgroupsaprtojun2026.xlsx",
     "licence": "Open Government Licence v3.0",
     "attribution": "Office for National Statistics",
-    "generated": "2026-06-09T17:37:17.720288Z",
+    "generated": "2026-08-28T16:06:03.299716Z",
     "measure": "12-month percentage change (payments approach)",
     "note": "HCI is official statistics in development. Payments approach includes mortgage interest (CPI excludes it). Series capped to common window from Jan 2022."
   },
-  "latest_month": "2026 MAR",
+  "latest_month": "2026 JUN",
   "start_month": "2022 JAN",
   "groups": {
     "all": {
@@ -219,6 +219,18 @@
         {
           "date": "2026 MAR",
           "value": 3.6
+        },
+        {
+          "date": "2026 APR",
+          "value": 3.0
+        },
+        {
+          "date": "2026 MAY",
+          "value": 3.0
+        },
+        {
+          "date": "2026 JUN",
+          "value": 2.8
         }
       ]
     },
@@ -429,6 +441,18 @@
         {
           "date": "2026 MAR",
           "value": 3.7
+        },
+        {
+          "date": "2026 APR",
+          "value": 3.0
+        },
+        {
+          "date": "2026 MAY",
+          "value": 2.9
+        },
+        {
+          "date": "2026 JUN",
+          "value": 2.7
         }
       ]
     },
@@ -639,6 +663,18 @@
         {
           "date": "2026 MAR",
           "value": 3.7
+        },
+        {
+          "date": "2026 APR",
+          "value": 3.0
+        },
+        {
+          "date": "2026 MAY",
+          "value": 3.0
+        },
+        {
+          "date": "2026 JUN",
+          "value": 2.7
         }
       ]
     },
@@ -849,6 +885,18 @@
         {
           "date": "2026 MAR",
           "value": 3.6
+        },
+        {
+          "date": "2026 APR",
+          "value": 3.1
+        },
+        {
+          "date": "2026 MAY",
+          "value": 3.0
+        },
+        {
+          "date": "2026 JUN",
+          "value": 2.8
         }
       ]
     },
@@ -1059,6 +1107,18 @@
         {
           "date": "2026 MAR",
           "value": 3.5
+        },
+        {
+          "date": "2026 APR",
+          "value": 3.0
+        },
+        {
+          "date": "2026 MAY",
+          "value": 3.0
+        },
+        {
+          "date": "2026 JUN",
+          "value": 2.8
         }
       ]
     },
@@ -1269,6 +1329,18 @@
         {
           "date": "2026 MAR",
           "value": 3.6
+        },
+        {
+          "date": "2026 APR",
+          "value": 2.9
+        },
+        {
+          "date": "2026 MAY",
+          "value": 2.9
+        },
+        {
+          "date": "2026 JUN",
+          "value": 2.8
         }
       ]
     },
@@ -1479,6 +1551,18 @@
         {
           "date": "2026 MAR",
           "value": 3.6
+        },
+        {
+          "date": "2026 APR",
+          "value": 3.0
+        },
+        {
+          "date": "2026 MAY",
+          "value": 3.1
+        },
+        {
+          "date": "2026 JUN",
+          "value": 2.8
         }
       ]
     },
@@ -1689,6 +1773,18 @@
         {
           "date": "2026 MAR",
           "value": 3.6
+        },
+        {
+          "date": "2026 APR",
+          "value": 2.9
+        },
+        {
+          "date": "2026 MAY",
+          "value": 2.8
+        },
+        {
+          "date": "2026 JUN",
+          "value": 2.6
         }
       ]
     },
@@ -1899,6 +1995,18 @@
         {
           "date": "2026 MAR",
           "value": 3.7
+        },
+        {
+          "date": "2026 APR",
+          "value": 3.1
+        },
+        {
+          "date": "2026 MAY",
+          "value": 3.2
+        },
+        {
+          "date": "2026 JUN",
+          "value": 3.0
         }
       ]
     },
@@ -2109,6 +2217,18 @@
         {
           "date": "2026 MAR",
           "value": 3.7
+        },
+        {
+          "date": "2026 APR",
+          "value": 2.9
+        },
+        {
+          "date": "2026 MAY",
+          "value": 2.9
+        },
+        {
+          "date": "2026 JUN",
+          "value": 2.7
         }
       ]
     },
@@ -2319,6 +2439,18 @@
         {
           "date": "2026 MAR",
           "value": 3.7
+        },
+        {
+          "date": "2026 APR",
+          "value": 3.1
+        },
+        {
+          "date": "2026 MAY",
+          "value": 3.1
+        },
+        {
+          "date": "2026 JUN",
+          "value": 2.9
         }
       ]
     },
@@ -2529,6 +2661,18 @@
         {
           "date": "2026 MAR",
           "value": 3.6
+        },
+        {
+          "date": "2026 APR",
+          "value": 2.8
+        },
+        {
+          "date": "2026 MAY",
+          "value": 2.7
+        },
+        {
+          "date": "2026 JUN",
+          "value": 2.5
         }
       ]
     },
@@ -2739,6 +2883,18 @@
         {
           "date": "2026 MAR",
           "value": 3.5
+        },
+        {
+          "date": "2026 APR",
+          "value": 3.1
+        },
+        {
+          "date": "2026 MAY",
+          "value": 3.1
+        },
+        {
+          "date": "2026 JUN",
+          "value": 2.8
         }
       ]
     },
@@ -2949,6 +3105,18 @@
         {
           "date": "2026 MAR",
           "value": 3.7
+        },
+        {
+          "date": "2026 APR",
+          "value": 3.0
+        },
+        {
+          "date": "2026 MAY",
+          "value": 3.0
+        },
+        {
+          "date": "2026 JUN",
+          "value": 2.8
         }
       ]
     }
