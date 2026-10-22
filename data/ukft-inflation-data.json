@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "UKFT RCOL Layer 1 — Official UK inflation indices from ONS MM23 (headline + 12 COICOP division annual rates)",
-    "generated": "2026-10-02T04:18:12.268Z",
+    "generated": "2026-10-22T04:17:45.028Z",
     "source": "ONS MM23 via api.beta.ons.gov.uk",
     "licence": "Open Government Licence v3.0",
     "attribution": "Office for National Statistics"
@@ -2725,6 +2725,12 @@
         "year": "2026",
         "month": "August",
         "value": "3.1"
+      },
+      {
+        "date": "2026 SEP",
+        "year": "2026",
+        "month": "September",
+        "value": "3.5"
       }
     ],
     "annual": [
@@ -5669,6 +5675,12 @@
         "year": "2026",
         "month": "August",
         "value": "143.6"
+      },
+      {
+        "date": "2026 SEP",
+        "year": "2026",
+        "month": "September",
+        "value": "144.1"
       }
     ],
     "annual": [
@@ -8545,6 +8557,12 @@
         "year": "2026",
         "month": "August",
         "value": "3.3"
+      },
+      {
+        "date": "2026 SEP",
+        "year": "2026",
+        "month": "September",
+        "value": "3.6"
       }
     ],
     "annual": [
@@ -11489,6 +11507,12 @@
         "year": "2026",
         "month": "August",
         "value": "143.4"
+      },
+      {
+        "date": "2026 SEP",
+        "year": "2026",
+        "month": "September",
+        "value": "144.0"
       }
     ],
     "annual": [
@@ -14509,6 +14533,12 @@
         "year": "2026",
         "month": "August",
         "value": "421.6"
+      },
+      {
+        "date": "2026 SEP",
+        "year": "2026",
+        "month": "September",
+        "value": "422.1"
       }
     ],
     "annual": [
@@ -16484,6 +16514,10 @@
         {
           "date": "2026 AUG",
           "value": "1.3"
+        },
+        {
+          "date": "2026 SEP",
+          "value": "1.3"
         }
       ]
     },
@@ -18300,6 +18334,10 @@
         {
           "date": "2026 AUG",
           "value": "2.7"
+        },
+        {
+          "date": "2026 SEP",
+          "value": "2.5"
         }
       ]
     },
@@ -20116,6 +20154,10 @@
         {
           "date": "2026 AUG",
           "value": "0.2"
+        },
+        {
+          "date": "2026 SEP",
+          "value": "0.1"
         }
       ]
     },
@@ -21932,6 +21974,10 @@
         {
           "date": "2026 AUG",
           "value": "4.9"
+        },
+        {
+          "date": "2026 SEP",
+          "value": "5.3"
         }
       ]
     },
@@ -23748,6 +23794,10 @@
         {
           "date": "2026 AUG",
           "value": "0.8"
+        },
+        {
+          "date": "2026 SEP",
+          "value": "1.0"
         }
       ]
     },
@@ -25564,6 +25614,10 @@
         {
           "date": "2026 AUG",
           "value": "3.7"
+        },
+        {
+          "date": "2026 SEP",
+          "value": "3.5"
         }
       ]
     },
@@ -27380,6 +27434,10 @@
         {
           "date": "2026 AUG",
           "value": "4.6"
+        },
+        {
+          "date": "2026 SEP",
+          "value": "6.6"
         }
       ]
     },
@@ -29196,6 +29254,10 @@
         {
           "date": "2026 AUG",
           "value": "5.3"
+        },
+        {
+          "date": "2026 SEP",
+          "value": "5.8"
         }
       ]
     },
@@ -31012,6 +31074,10 @@
         {
           "date": "2026 AUG",
           "value": "1.6"
+        },
+        {
+          "date": "2026 SEP",
+          "value": "2.3"
         }
       ]
     },
@@ -32828,6 +32894,10 @@
         {
           "date": "2026 AUG",
           "value": "5.1"
+        },
+        {
+          "date": "2026 SEP",
+          "value": "5.0"
         }
       ]
     },
@@ -34644,6 +34714,10 @@
         {
           "date": "2026 AUG",
           "value": "4.1"
+        },
+        {
+          "date": "2026 SEP",
+          "value": "3.8"
         }
       ]
     },
@@ -36460,6 +36534,10 @@
         {
           "date": "2026 AUG",
           "value": "2.9"
+        },
+        {
+          "date": "2026 SEP",
+          "value": "3.1"
         }
       ]
     }
