@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "UKFT RCOL — Average Weekly Earnings from ONS for purchasing power analysis",
-    "generated": "2026-10-21T04:17:37.718Z",
+    "generated": "2026-11-18T05:17:49.733Z",
     "source": "ONS Labour Market Statistics via api.beta.ons.gov.uk",
     "licence": "Open Government Licence v3.0",
     "attribution": "Office for National Statistics",
@@ -1855,7 +1855,7 @@
         "date": "2025 JUL",
         "year": "2025",
         "month": "July",
-        "value": "728"
+        "value": "729"
       },
       {
         "date": "2025 AUG",
@@ -1867,7 +1867,7 @@
         "date": "2025 SEP",
         "year": "2025",
         "month": "September",
-        "value": "734"
+        "value": "735"
       },
       {
         "date": "2025 OCT",
@@ -1933,7 +1933,13 @@
         "date": "2026 AUG",
         "year": "2026",
         "month": "August",
-        "value": "757"
+        "value": "758"
+      },
+      {
+        "date": "2026 SEP",
+        "year": "2026",
+        "month": "September",
+        "value": "761"
       }
     ],
     "annual": [
@@ -3963,13 +3969,19 @@
         "date": "2026 JUL",
         "year": "2026",
         "month": "July",
-        "value": "757"
+        "value": "758"
       },
       {
         "date": "2026 AUG",
         "year": "2026",
         "month": "August",
-        "value": "757"
+        "value": "759"
+      },
+      {
+        "date": "2026 SEP",
+        "year": "2026",
+        "month": "September",
+        "value": "762"
       }
     ],
     "annual": [
@@ -5927,7 +5939,7 @@
         "date": "2025 JUL",
         "year": "2025",
         "month": "July",
-        "value": "709"
+        "value": "708"
       },
       {
         "date": "2025 AUG",
@@ -5939,7 +5951,7 @@
         "date": "2025 SEP",
         "year": "2025",
         "month": "September",
-        "value": "721"
+        "value": "722"
       },
       {
         "date": "2025 OCT",
@@ -5999,12 +6011,18 @@
         "date": "2026 JUL",
         "year": "2026",
         "month": "July",
-        "value": "760"
+        "value": "759"
       },
       {
         "date": "2026 AUG",
         "year": "2026",
         "month": "August",
+        "value": "751"
+      },
+      {
+        "date": "2026 SEP",
+        "year": "2026",
+        "month": "September",
         "value": "752"
       }
     ],
@@ -8041,7 +8059,13 @@
         "date": "2026 AUG",
         "year": "2026",
         "month": "August",
-        "value": "108.9"
+        "value": "109.0"
+      },
+      {
+        "date": "2026 SEP",
+        "year": "2026",
+        "month": "September",
+        "value": "108.5"
       }
     ],
     "annual": [
